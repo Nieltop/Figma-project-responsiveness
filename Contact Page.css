@@ -1,0 +1,789 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.top{
+    display: flex; 
+    background-color: #14394C;
+     padding-bottom: 15px; 
+    padding-top: 30px;
+    width: 100%;
+}
+
+.reach h3{
+    color: white;
+    font-size: 24px;
+    margin-top: 45px;
+    margin-left: 30px;
+}
+
+.reach p{
+    color: white;
+    font-size: 14px;
+    margin-left: 30px;
+}
+
+.logotext{
+    color: white;
+}
+
+.homelogo{
+    width: 10%;
+    margin-left: 47px;
+}
+
+.logoimg{
+    width: 25%;
+}
+
+.logotext{
+    font-size: 14px;
+    line-height: 15px;
+}
+
+.logo{
+    margin-top: 45px;
+    margin-left: 40px;
+    display: none;
+}
+
+.wrap{
+    display: flex;
+    margin-left: 30px;
+}
+
+.name{
+    width: 306px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.entireimg{
+    display: none;
+}
+
+.entireone h3{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.entiretwo h3{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.email{
+    width: 306px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+.entirethree h3{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.message{
+    width: 306px;
+    height: 80px;
+    border-radius: 5px;
+}
+
+.entire{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.entiretwo{
+    margin-top: 25px;
+}
+
+.entirethree{
+    margin-top: 25px;
+}
+
+.entirebutton{
+    border: 0;
+    background-color: #6d1830;
+    color: white;
+    padding: 10px;
+    width: 80px;
+    border-radius: 4px;
+    margin-top: 25px;
+}
+
+.directly{
+    margin-top: 50px;
+    padding-top: 25px;
+    background-color: #fff9f2;
+    padding-bottom: 25px;
+}
+
+.directlytextx{
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.directlyone{
+    background-color: white;
+    width: 70%;
+    margin-top: 25px;
+    margin-left: 33px;
+    padding-bottom: 15px;
+}
+
+.directlyone img{
+    width: 13%;
+    margin-left: 110px;
+    margin-top: 20px;
+}
+
+.directlyone h3{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.higherp{
+    font-weight: lighter;
+    font-size: 14px;
+    margin-left: 67px;
+}
+
+.directlytwo{
+    background-color: white;
+    width: 70%;
+    margin-top: 25px;
+    margin-left: 33px;
+    padding-bottom: 15px;
+}
+
+.directlytwo img{
+    width: 13%;
+    margin-left: 110px;
+    margin-top: 20px;
+}
+
+.directlytwo h3{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.highersale{
+    font-weight: lighter;
+    font-size: 14px;
+    margin-left: 67px;
+}
+
+.directlythree{
+    background-color: white;
+    width: 70%;
+    margin-top: 25px;
+    margin-left: 33px;
+    padding-bottom: 15px;
+}
+
+.directlythree img{
+    width: 13%;
+    margin-left: 110px;
+    margin-top: 20px;
+}
+
+.directlythree h3{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.higherpress{
+    font-weight: lighter;
+    font-size: 14px;
+    margin-left: 67px;
+}
+
+.lowerp{
+    font-weight: bold;
+    margin-left: 63px;
+}
+
+.lowersale{
+    font-weight: bold;
+    margin-left: 70px;
+}
+
+.lowerpress{
+    font-weight: bold;
+    margin-left: 70px;
+}
+
+.linne{
+    margin-top: 60px;
+    width: 80%;
+    margin-left: 33px;
+}
+
+.frep{
+    margin-left: 30px;
+}
+
+.Frequentlyone{
+    margin-top: 40px;
+}
+
+.newFrequently{
+    display: none;
+}
+
+.Frequentlyone h3{
+    margin-left: 30px;
+}
+
+.Frequentlytwo{
+    margin-top: 40px;
+}
+
+.Frequentlytwo h3{
+    margin-left: 30px;
+}
+
+.freline{
+    width: 80%;
+    margin-left: 33px;
+    margin-top: 30px;
+}
+
+.Frequentlythree h3{
+    margin-left: 30px;
+}
+
+.Frequentlyfour h3{
+    margin-left: 30px;
+}
+
+.Frequentlyfive h3{
+    margin-left: 30px;
+}
+
+.newPhone{
+    display: none;
+}
+
+.Phone{
+    background-color: #14394C;
+    margin-top: 60px;
+    padding-bottom: 50px;
+}
+
+.Phone img{
+    width: 95%;
+}
+
+.Phone h3{
+    color: white;
+    margin-left: 75px;
+    margin-top: 30px;
+}
+
+.phonetext{
+    color: white;
+    font-weight: lighter;
+    font-size: 16px;
+    margin-left: 80px;
+    margin-bottom: 0px;
+}
+
+.environs{
+    color: white;
+    font-weight: lighter;
+    font-size: 16px;
+    margin-left: 135px;
+    margin-top: 0px;
+}
+
+.phonedownload{
+    border: 0;
+    margin-top: 5px;
+    padding: 8px;
+    border-radius: 3px;
+    margin-left: 113px;
+}
+
+.newSubscribe{
+    display: none;
+}
+
+.Subscribe{
+    background-color: #6d1830;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.Subscribe h3{
+    margin-left: 50px;
+    margin-top: 0px;
+}
+
+.SubscribeH{
+    color: white;
+    margin-left: 50px;
+}
+
+.SubscribeP{
+    color: white;
+    font-weight: lighter;
+    font-size: 14px;
+    margin-left: 50px;
+}
+
+.Subscribeinput{
+    width: 75%;
+    height: 35px;
+    margin-left: 50px;
+    border-radius: 3px;
+    border: 0;
+}
+
+.Subscribebutton{
+    background-color: #fff9f2;
+    color: #6d1830;
+    border: 0;
+    padding: 8px;
+    font-weight: bold;
+    width: 100px;
+    border-radius: 3px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.last{
+    background-color: white;
+}
+
+.lasttext{
+    display: flex;
+}
+
+.last img{
+    width: 10%;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.lasttext{
+    margin-left: 30px;
+    margin-top: 25px;
+    font-weight: bold;
+    gap: 20px;
+}
+
+.playstore img{
+    width: 40%;
+    margin-top: 0px;
+}
+
+.playstoretext{
+    margin-left: 30px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.playstore{
+    margin-top: 20px;
+}
+
+.footline{
+    margin-top: 20px;
+    width: 80%;
+    margin-left: 33px;
+}
+
+.footermedia img{
+    margin-top: 20px;
+    width: 7%;
+    gap: 0px;
+}
+
+.footermedia a{
+   gap: 5px;
+}
+
+.Policy{
+    display: flex;
+    gap: 15px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.Policy a{
+    text-decoration: none;
+    color: #9ca3af;
+}
+
+@media only screen and (min-width: 1519px) {
+
+.homelogo{
+    width: 4%;
+}
+
+.navitems{
+    margin-left: 400px;
+    gap: 50px;
+}
+
+.itemonnav{
+    display: flex;
+    gap: 40px;
+}
+
+.d-flex{
+    margin-left: 150px;
+}
+
+.logo{
+    margin-top: 95px;
+    margin-left: 700px;
+    display: flex;
+}
+
+.logoimg{
+    height: 60px;
+    width: 60px;
+}
+
+.logotext{
+    font-size: 20px;
+    line-height: 23px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.reach h3{
+    color: white;
+    font-size: 38px;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.reach p{
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.entireimg{
+    display: block;
+}
+
+.entire{
+    display: flex;
+}
+
+.entireonetwo{
+    display: flex;
+    margin-left: 100px;
+}
+
+.entire{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.entiretwo{
+    margin-left: 30px;
+}
+
+.entireone{
+    margin-top: 25px;
+}
+
+.entirethree{
+    margin-left: 100px;
+}
+
+.message{
+    width: 642px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+.entirebutton{
+    border: 0;
+    background-color: #6d1830;
+    color: white;
+    padding: 10px;
+    width: 100px;
+    border-radius: 4px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.entirebutton:hover{
+    background-color: #cb2353;
+    font-size: 15px;
+}
+
+.entireform{
+    margin-top: 100px;
+}
+
+.directly{
+    margin-top: 0px;
+    padding-top: 25px;
+    background-color: #fff9f2;
+    padding-bottom: 25px;
+}
+
+.directly h3{
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+.directlytotal{
+    display: flex;
+    margin-left: 100px;
+    gap: 50px;
+}
+
+.directlyone{
+    background-color: white;
+    width: 25%;
+    margin-top: 25px;
+    margin-left: 33px;
+    padding-bottom: 15px;
+}
+
+.directlytwo{
+    background-color: white;
+    width: 25%;
+    margin-top: 25px;
+    margin-left: 33px;
+    padding-bottom: 15px;
+}
+
+.directlythree{
+    background-color: white;
+    width: 25%;
+    margin-top: 25px;
+    margin-left: 33px;
+    padding-bottom: 15px;
+}
+
+.higherp{
+    margin-left: 105px;
+}
+
+.lowerp{
+    margin-left: 100px;
+}
+
+.directlyone img{
+    width: 10%;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.directlytwo img{
+    width: 10%;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.directlythree img{
+    width: 10%;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.directlyone h3{
+    margin-left: 60px;
+    margin-top: 15px;
+}
+
+.directlytwo h3{
+    margin-left: 60px;
+    margin-top: 15px;
+}
+
+.directlythree h3{
+    margin-left: 60px;
+    margin-top: 15px;
+}
+
+.highersale{
+    margin-left: 100px;
+}
+
+.lowersale{
+    margin-left: 108px;
+}
+
+.higherpress{
+    margin-left: 100px;
+}
+
+.lowerpress{
+    margin-left: 103px;
+}
+
+.directlytext{
+    margin-left: 600px;
+}
+
+.linne{
+    margin-top: 60px;
+    width: 80%;
+    margin-left: 140px;
+}
+
+.Frequently{
+    display: none;
+}
+
+.newFrequently{
+    display: block;
+}
+
+.newFrequentlyone{
+    margin-top: 50px;
+}
+
+.newFrequentlyone h3{
+    margin-left: 38%;
+}
+
+.newFrequentlyparagraph{
+    margin-left: 39%;
+}
+
+.Compatable{
+    margin-left: 480px;
+}
+
+.Compatablehightext{
+    font-weight: bold;
+    margin-bottom: 7px;
+    margin-top: 30px;
+}
+
+.Compatablelowtext{
+    font-size: 13px;
+    margin-top: 0px;
+}
+
+.newFrequentlylineone{
+    margin-top: 25px;
+    width: 50%;
+    margin-left: 380px;
+}
+
+.Safe{
+    margin-top: 25px;
+    margin-left: 480px;
+}
+
+.Safetext{
+    font-weight: bold;
+}
+
+.newFrequentlylinetwo{
+    margin-top: 25px;
+    width: 50%;
+    margin-left: 380px;
+}
+
+.Help{
+    margin-top: 25px;
+    margin-left: 480px;
+}
+
+.Helptext{
+    font-weight: bold;
+}
+
+.newFrequentlylinethree{
+    margin-top: 25px;
+    width: 50%;
+    margin-left: 380px;
+}
+
+.Pay{
+    margin-top: 25px;
+    margin-left: 480px;
+}
+
+.Paytext{
+    font-weight: bold;
+}
+
+.newFrequentlylinefour{
+    margin-top: 25px;
+    width: 50%;
+    margin-left: 380px;
+}
+
+.Phone{
+    display: none;
+}
+
+.newPhone{
+    display: block;
+    display: flex;
+    background-color: #14394C;
+    margin-top: 60px;
+}
+
+.newPhoneimg{
+    width: 25%;
+}
+
+.newPhonecontent{
+    margin-top: 130px;
+    margin-left: 300px;
+}
+
+.newPhonecontentheading{
+    color: white;
+}
+
+.newPhonecontenttext{
+    color: white;
+    font-size: 14px;
+}
+
+.newPhonecontentbutton{
+    border: 0;
+    padding: 8px;
+    border-radius: 3px;
+}
+
+.Subscribe{
+    display: none;
+}
+
+.newSubscribe{
+    display: block;
+    display: flex;
+    background-color: #6d1830;
+    padding-bottom: 25px;
+}
+
+.newSubscribeone{
+    margin-left: 100px;
+}
+
+.newSubscribetext h3{
+    margin-bottom: 0px;
+    color: white;
+    font-size: 20px;
+}
+
+.newSubscribetext p{
+    margin-top: 5px;
+    font-size: 14px;
+    color: white;
+}
+
+.formfill{
+    display: flex;
+}
+
+}
