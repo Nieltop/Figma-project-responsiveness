@@ -1,0 +1,272 @@
+
+.nav-logo{
+  width: 40%;
+  margin-left: 30px;
+}
+
+.nav-item{
+  font-weight: bold;
+}
+
+.Download{
+  background-color: #14394C;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.Download-heading{
+  color: white;
+  margin-left: 30px;
+}
+
+.Download-text{
+  color: white;
+  margin-left: 30px;
+}
+
+.Andriod-ios{
+  background-color: #FFF9F2;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.Andriod-logo-div{
+  display: flex;
+  margin-bottom: 8px;
+}
+
+.Andriod-logo{
+  width: 10%;
+  height: 5%;
+}
+
+.Andriod-logo-text{
+  margin-top: 5px;
+  margin-left: 8px;
+}
+
+.Andriod{
+  margin-left: 85px
+}
+
+.Andriod-button{
+  border: 0;
+  color: white;
+  background-color: #6d1830;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 3px;
+}
+
+.ios-logo-div{
+  display: flex;
+  margin-bottom: 8px;
+}
+
+.ios-logo{
+  width: 10%;
+  height: 5%;
+}
+
+.ios-logo-text{
+  margin-top: 5px;
+  margin-left: 8px;
+}
+
+.Ios{
+  margin-left: 85px;
+  margin-top: 80px;
+}
+
+.ios-button{
+  border: 0;
+  color: white;
+  background-color: #d6afba;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 3px;
+}
+
+.Question{
+  background-color: #14394C;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.Question-content{
+  margin-left: 30px;
+}
+
+.Question-logo{
+  margin-left: 130px;
+}
+
+.Question-writeup{
+  margin-top: 30px;
+  color: white;
+  font-weight: lighter;
+}
+
+.Frequently{
+  background-color: #FFF9F2;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.Frequentlyone{
+  margin-top: 40px;
+}
+
+.newFrequently{
+  display: none;
+}
+
+.Frequentlyone h3{
+  margin-left: 30px;
+}
+
+.Frequentlytwo{
+  margin-top: 40px;
+}
+
+.Frequentlytwo h3{
+  margin-left: 30px;
+}
+
+.freline{
+  width: 80%;
+  margin-left: 33px;
+  margin-top: 30px;
+}
+
+.Frequentlythree h3{
+  margin-left: 30px;
+}
+
+.Frequentlyfour h3{
+  margin-left: 30px;
+}
+
+.Frequentlyfive h3{
+  margin-left: 30px;
+}
+
+.frep{
+  margin-left: 30px;
+}
+
+.Subscribe{
+  background-color: #6d1830;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.Subscribe h3{
+  margin-left: 23px;
+  margin-top: 0px;
+}
+
+.SubscribeH{
+  color: white;
+  margin-left: 23px;
+}
+
+.SubscribeP{
+  color: white;
+  font-weight: lighter;
+  font-size: 14px;
+  margin-left: 23px;
+}
+
+.Subscribeinput{
+  width: 75%;
+  height: 35px;
+  margin-left: 23px;
+  border-radius: 3px;
+  border: 0;
+}
+
+.Subscribebutton{
+  background-color: #fff9f2;
+  color: #6d1830;
+  border: 0;
+  padding: 8px;
+  font-weight: bold;
+  width: 100px;
+  border-radius: 3px;
+  margin-left: 23px;
+  margin-top: 10px;
+}
+
+.last{
+  background-color: white;
+}
+
+.lasttext{
+  display: flex;
+}
+
+.last img{
+  width: 10%;
+  margin-left: 23px;
+  margin-top: 30px;
+}
+
+.lasttext{
+  margin-left: 23px;
+  margin-top: 25px;
+  font-weight: bold;
+  gap: 20px;
+}
+
+.playstore img{
+  width: 40%;
+  margin-top: 0px;
+}
+
+.playstoretext{
+  margin-left: 23px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.playstore{
+  margin-top: 20px;
+}
+
+.footline{
+  margin-top: 20px;
+  width: 80%;
+  margin-left: 23px;
+}
+
+.footermedia img{
+  margin-top: 20px;
+  width: 7%;
+  gap: 0px;
+}
+
+.footermedia a{
+ gap: 5px;
+}
+
+.Policy{
+  display: flex;
+  gap: 15px;
+  margin-left: 23px;
+  margin-top: 20px;
+}
+
+.Policy a{
+  text-decoration: none;
+  color: #9ca3af;
+}
+
+.Mobile{
+  display: block;
+}
+
+
+
